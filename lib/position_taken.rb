@@ -5,7 +5,8 @@ def position_taken?
         return true
     elsif array[index_number] == O
         return true
-    
+    else
+        return FALSE
     
 
 end
